@@ -1,6 +1,6 @@
 # Tableau Projects
 Tableau Projects
-This repository contains my Tableau projects showcasing data analysis and visualization skills. The projects cover various domains, including financial complaints, Hertz rental car, and a lovely dashboard project.
+This repository contains my Tableau projects showcasing data analysis and visualization skills. The projects cover various domains, including Financial complaints, Hertz rental car, and Lovely dashboard project.
 
 ## __Financial Complaints__
 
