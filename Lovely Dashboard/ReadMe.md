@@ -7,6 +7,8 @@
 Introduce the purpose of the interactive dashboard, which is to analyze sales performance data and gain insights into key metrics and trends.
 Emphasize the importance of data visualization and storytelling in effectively conveying information and facilitating decision-making.
 
+
+<img src= https://github.com/MustafaVardal/Tableau-Projects/blob/main/Lovely%20Dashboard/Lovely%20Dashboard.png>
 - Section 1: Dashboard Overview
 
 Provide an overview of the interactive dashboard, highlighting its main features and functionality.
