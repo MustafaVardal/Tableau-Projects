@@ -9,6 +9,7 @@ Emphasize the importance of data visualization and storytelling in effectively c
 
 
 <img src= https://github.com/MustafaVardal/Tableau-Projects/blob/main/Lovely%20Dashboard/Lovely%20Dashboard.png>
+
 - Section 1: Dashboard Overview
 
 Provide an overview of the interactive dashboard, highlighting its main features and functionality.
