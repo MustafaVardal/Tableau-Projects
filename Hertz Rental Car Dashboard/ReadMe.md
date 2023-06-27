@@ -8,7 +8,7 @@ Introduce the topic of analyzing customer complaints related to Hertz Rental Car
 Highlight the significance of understanding and addressing customer concerns to enhance the rental car experience.
 
 
-
+<img src= https://github.com/MustafaVardal/Tableau-Projects/blob/main/Hertz%20Rental%20Car%20Dashboard/Hertz%20Rentalcar.png > 
 - Section 1: Overview of Hertz Rental Car Complaints
 
 Provide an overview of the dataset, specifying the time range and focus on Hertz Rental Car complaints.
