@@ -30,6 +30,6 @@ To view the Tableau workbooks and visualizations, follow these steps:
 I welcome any feedback or suggestions on the projects or the repository as a whole. If you have any questions or would like to connect, feel free to reach out to me.
 
 Happy exploring and visualization!
-email:m.vardal@hotmail.com
+
 
     
