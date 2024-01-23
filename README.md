@@ -1,4 +1,4 @@
-clea# Tableau Projects
+## Tableau Projects
 Tableau Projects
 This repository contains my Tableau projects showcasing data analysis and visualization skills. The projects cover various domains, including Financial complaints, Hertz rental car, and Lovely dashboard project.
 
